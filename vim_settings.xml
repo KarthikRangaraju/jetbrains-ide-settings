@@ -1,0 +1,758 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/privacy-service/privacy-service-impl/src/integration-test/java/com/castlight/privacyservice/service/ServiceRegistryServiceTest.java" timestamp="1557856741275">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="222" column="41" />
+        <mark key="." line="222" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/ParticipationService.java" timestamp="1575333334709" />
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/test/java/com/jiff/challenges2/service/activities/ActivityRequestProcessorServiceTest.java" timestamp="1571696202470">
+        <mark key="'" line="109" column="92" />
+        <mark key="[" line="117" column="75" />
+        <mark key="]" line="117" column="75" />
+        <mark key="^" line="57" column="70" />
+        <mark key="." line="117" column="75" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/docker-compose.yml" timestamp="1572037972585">
+        <mark key="[" line="4" column="73" />
+        <mark key="]" line="4" column="73" />
+        <mark key="." line="4" column="73" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/src/test/resources/json/activity_request.json" timestamp="1571942718286">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/privacy-service/privacy-service-api/build.gradle" timestamp="1556816492658">
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="6" column="48" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_24.json" timestamp="1571942302344">
+        <mark key="[" line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/test/resources/seed_data/participations.sql" timestamp="1571694305697">
+        <mark key="[" line="41" column="147" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/web-services/src/main/java/com/jiff/challenges2/controller/ActivityController.java" timestamp="1569020024138">
+        <mark key="[" line="50" column="54" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_25.json" timestamp="1572810000489">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/gdpr/GdprListenerService.java" timestamp="1557351813081">
+        <mark key="[" line="37" column="64" />
+        <mark key="]" line="37" column="64" />
+        <mark key="." line="37" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-batch-jobs/impl/src/main/java/com/jiff/challenges2/batch/emails/readers/UnRegisteredEligibleUnEnrolledBatchReader.java" timestamp="1568654479755">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="104" />
+        <mark key="." line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/src/main/java/com/jiff/challenges2/controller/ChallengePersonController.java" timestamp="1568934065374">
+        <mark key="[" line="24" column="63" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0680f7c-1762-4aab-8938-b84cb48c6b0b/console.sql" timestamp="1560112609866">
+        <mark key="[" line="3" column="52" />
+        <mark key="]" line="17" column="14" />
+        <mark key="." line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/src/main/java/com/jiff/challenges2/service/TeamInviteSearchService.java" timestamp="1569100866884">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/web-services/src/main/java/com/jiff/challenges2/filter/EligibilityBasedRoutingFilter.java" timestamp="1561422023250">
+        <mark key="[" line="18" column="79" />
+        <mark key="]" line="18" column="79" />
+        <mark key="." line="18" column="79" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/src/main/java/com/jiff/challenges2/service/ChallengePersonServiceV2.java" timestamp="1571700644127">
+        <mark key="'" line="131" column="73" />
+        <mark key="[" line="90" column="20" />
+        <mark key="]" line="86" column="17" />
+        <mark key="." line="86" column="17" />
+        <mark key="^" line="86" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/privacy-service/privacy-service-impl/src/test/java/com/castlight/privacyservice/controller/AccountPrivateDataControllerTest.java" timestamp="1557183812544">
+        <mark key="[" line="114" column="14" />
+        <mark key="]" line="76" column="66" />
+        <mark key="." line="76" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/web-services/src/main/java/com/jiff/challenges2/controller/ActionRewardEarnedTransactionController.java" timestamp="1561521293270">
+        <mark key="[" line="50" column="78" />
+        <mark key="]" line="50" column="78" />
+        <mark key="." line="50" column="78" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/configuration/TopicNames.java" timestamp="1564001075244">
+        <mark key="[" line="150" column="60" />
+        <mark key="]" line="150" column="60" />
+        <mark key="." line="150" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/privacy-service/privacy-service-impl/src/integration-test/java/com/castlight/privacyservice/controller/DataPrivacyRequestsControllerTest.java" timestamp="1557255546451">
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="30" column="14" />
+        <mark key="." line="30" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/api/src/main/java/com/jiff/challenges2/api/activities/wwftags/ParticipationTag.java" timestamp="1571946187306">
+        <mark key="[" line="38" column="10" />
+        <mark key="]" line="38" column="10" />
+        <mark key="^" line="24" column="9" />
+        <mark key="." line="38" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/privacy-service/privacy-service-impl/src/main/java/com/castlight/privacyservice/service/DataPrivacyRequestStatusConverter.java" timestamp="1556916545989">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="14" column="2" />
+        <mark key="." line="14" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/dataprivacy/GdprListenerService.java" timestamp="1557456939605">
+        <mark key="[" line="32" column="2" />
+        <mark key="]" line="32" column="2" />
+        <mark key="." line="32" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/stream-processors/light-weight/src/main/java/com/jiff/challenges2/streams/dataprivacy/DataPrivacyRequestsMySQLStreamProcessorConfiguration.java" timestamp="1558459663896">
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="31" />
+        <mark key="." line="37" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-batch-jobs/impl/src/main/java/com/jiff/challenges2/batch/emails/models/EmailBatchProcessorInput.java" timestamp="1573085070329" />
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/eligibility/UserContextFactoryService.java" timestamp="1568320220282">
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="41" />
+        <mark key="." line="23" column="41" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/630463c0-75fd-406a-a0c1-bcd7c38d5865/console.sql" timestamp="1569204760332">
+        <mark key="[" line="47" column="20" />
+        <mark key="]" line="47" column="20" />
+        <mark key="." line="47" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/src/main/java/com/jiff/challenges2/repository/PersonRepository.java" timestamp="1568931781718">
+        <mark key="[" line="52" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/batch-processors/notifications/src/main/java/com/jiff/challenges2/batch/notifications/reader/DailyGoalCompletionReminderNotificationStepReader.java" timestamp="1562782142194">
+        <mark key="[" line="88" column="18" />
+        <mark key="]" line="88" column="18" />
+        <mark key="." line="88" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-batch-jobs/impl/src/main/java/com/jiff/challenges2/batch/emails/readers/UnRegisteredEligibleUnEnrolledJiffWarehouseBatchReader.java" timestamp="1568409246378">
+        <mark key="[" line="27" column="104" />
+        <mark key="]" line="27" column="49" />
+        <mark key="." line="27" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/test/java/com/jiff/challenges2/repository/PersonRepositoryV2Test.java" timestamp="1575497187436" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.json" timestamp="1568419654198">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/stream-processors/notifications/src/main/java/com/jiff/challenges2/notifications/configurations/NotificationActionRewardStreamProcessorConfiguration.java" timestamp="1557339930795">
+        <mark key="[" line="146" column="9" />
+        <mark key="]" line="146" column="9" />
+        <mark key="." line="146" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/stream-processors/events/src/main/java/com/jiff/challenges2/service/DebeziumConnectorService.java" timestamp="1563848402527">
+        <mark key="[" line="54" column="3" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="66" column="51" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_22.json" timestamp="1571788766515">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/test/java/com/jiff/challenges2/batch/emails/admin/controller/EnrolledUserChallengeStartEmailJobTest.java" timestamp="1558728541470">
+        <mark key="[" line="44" column="60" />
+        <mark key="]" line="44" column="60" />
+        <mark key="." line="44" column="60" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/40a1fecf-30c9-4f4d-b49d-76e5c54c93ad/console.sql" timestamp="1564170485297">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="0" column="84" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/web-services/src/main/java/com/jiff/challenges2/view/controller/leaderboard/LeaderboardEntriesController.java" timestamp="1561521539584">
+        <mark key="[" line="49" column="36" />
+        <mark key="]" line="49" column="36" />
+        <mark key="." line="49" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/activities/ActivityRequestProcessorService.java" timestamp="1569020271065">
+        <mark key="[" line="43" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/privacy-service/privacy-service-impl/src/integration-test/java/com/castlight/privacyservice/controller/SmokeTest.java" timestamp="1557255353672">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-batch-jobs/impl/src/main/java/com/jiff/challenges2/batch/emails/readers/RegisteredEligibleUnEnrolledBatchReader.java" timestamp="1573085065404">
+        <mark key="[" line="43" column="9" />
+        <mark key="]" line="43" column="18" />
+        <mark key="." line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/web-services/src/main/java/com/jiff/challenges2/admin/controller/AdminPrizeController.java" timestamp="1562886207564">
+        <mark key="[" line="29" column="63" />
+        <mark key="]" line="29" column="63" />
+        <mark key="." line="29" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/test/java/com/jiff/challenges2/filter/RequestUserContextHeaderFilterTest.java" timestamp="1569350783439">
+        <mark key="[" line="127" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-batch-jobs/impl/src/main/java/com/jiff/challenges2/batch/emails/config/GreenPlumDataSourceConfiguration.java" timestamp="1573084906771">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="33" column="44" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/team/invites/TeamInvitesService.java" timestamp="1569266377759">
+        <mark key="[" line="54" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/test/java/com/jiff/challenges2/notification/service/NotificationSenderServiceTest.java" timestamp="1563414395143">
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="40" column="35" />
+        <mark key="." line="40" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/privacy-service/privacy-service-impl/src/main/java/com/castlight/privacyservice/service/DataPrivacyRequestStatusService.java" timestamp="1560318496850">
+        <mark key="[" line="78" column="38" />
+        <mark key="]" line="44" column="67" />
+        <mark key="." line="44" column="67" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/CastlightApiGatewayService.java" timestamp="1562698855538">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="28" />
+        <mark key="." line="33" column="28" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.json" timestamp="1562353475973">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/readers/RegisteredEligibleUnEnrolledGreenPlumBatchReader.java" timestamp="1563396654403">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="26" column="40" />
+        <mark key="." line="26" column="40" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c149ba36-5123-421e-b220-62cd8ae835ec/console.sql" timestamp="1572028083492">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/docker-compose.yml" timestamp="1569105323781">
+        <mark key="[" line="4" column="68" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/web-services/src/main/java/com/jiff/challenges2/controller/ChallengeController.java" timestamp="1561521020336">
+        <mark key="[" line="34" column="64" />
+        <mark key="]" line="34" column="64" />
+        <mark key="." line="34" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/tasklets/EmailTemplateProviderTasklet.java" timestamp="1557782121467">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/jiff/person-manager-impl/3.0.3-RELEASE/person-manager-impl-3.0.3-RELEASE.jar!/com/jiff/service/PersonElasticSearchQueryServiceImpl.class" timestamp="1568926003714">
+        <mark key="[" line="63" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/repository/PersonRepositoryV2.java" timestamp="1575497083191">
+        <mark key="[" line="123" column="55" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="171" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/privacy-service/privacy-service-impl/src/main/java/com/castlight/privacyservice/service/DataPrivacyRequestStatusUtil.java" timestamp="1556917053024">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/src/test/java/com/jiff/challenges2/controller/ChallengePersonControllerTest.java" timestamp="1569030810186">
+        <mark key="[" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/privacy-service/.gitlab-ci.yml" timestamp="1556913475234">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="9" column="40" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b74feaf4-ad64-4c01-937a-94fd9554d4a2/console.sql" timestamp="1576540608756">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="150" column="42" />
+        <mark key="." line="150" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/web-services/src/main/java/com/jiff/challenges2/controller/team/TeamController.java" timestamp="1563224545915">
+        <mark key="[" line="81" column="80" />
+        <mark key="]" line="81" column="80" />
+        <mark key="." line="81" column="80" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/api/src/main/java/com/jiff/challenges2/constant/ChallengeConstants.java" timestamp="1557456272349">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/002fda9f-eef5-4838-abeb-e1030db90d0e/console.sql" timestamp="1572029122916">
+        <mark key="[" line="295" column="24" />
+        <mark key="]" line="295" column="60" />
+        <mark key="." line="295" column="60" />
+        <mark key="^" line="254" column="59" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ab0ddd39-270c-45a1-9915-33b5e53673da/console.sql" timestamp="1571158430445">
+        <mark key="[" line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/configuration/gateway/EdgeBasedRequestUserContextHeaderFilter.java" timestamp="1569350876574">
+        <mark key="[" line="38" column="52" />
+        <mark key="]" line="38" column="17" />
+        <mark key="." line="38" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/resources/default.properties" timestamp="1562881422748">
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="32" column="30" />
+        <mark key="." line="32" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/web-services/src/main/java/com/jiff/challenges2/configuration/gateway/GatekeeperApiGatewayConfiguration.java" timestamp="1564079296843">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="13" />
+        <mark key="." line="25" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/privacy-service/privacy-service-api/src/main/java/com/castlight/privacyservice/dto/DataPrivacyRequest.java" timestamp="1557167918032">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="28" column="9" />
+        <mark key="." line="28" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/test/java/com/jiff/challenges2/service/team/invites/TeamInvitesServiceTest.java" timestamp="1569104878725">
+        <mark key="[" line="127" column="47" />
+        <mark key="]" line="96" column="8" />
+        <mark key="." line="96" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/readers/ChallengeEnrolledUserBatchReader.java" timestamp="1559156108979">
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/web-services/src/test/java/com/jiff/challenges2/view/controller/team/TeamSummariesControllerTest.java" timestamp="1563404272797">
+        <mark key="[" line="25" column="49" />
+        <mark key="]" line="25" column="49" />
+        <mark key="." line="25" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/filter/XUserDataHeaderFilter.java" timestamp="1561755235973">
+        <mark key="[" line="85" column="57" />
+        <mark key="]" line="91" column="35" />
+        <mark key="." line="91" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/configuration/gateway/RequestUserContextHeader.java" timestamp="1563386870496">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/web-services/src/test/java/com/jiff/challenges2/controller/ChallengePersonControllerTest.java" timestamp="1569026633248">
+        <mark key="[" line="44" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/response/serializers/PaginationSerializer.java" timestamp="1563407296002">
+        <mark key="[" line="40" column="50" />
+        <mark key="]" line="40" column="50" />
+        <mark key="." line="40" column="50" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd309e6c-fb6d-4367-b6d5-d03f3d642c71/console.sql" timestamp="1563565461139">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/team/invites/TeamInvitesBatchRequestValidatorService.java" timestamp="1571786448870">
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="19" column="6" />
+        <mark key="." line="19" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/api/src/main/java/com/jiff/challenges2/api/activities/wwftags/RegisteredChallengeElligiblePersonTag.java" timestamp="1571946088850">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="33" column="10" />
+        <mark key="." line="33" column="10" />
+        <mark key="^" line="19" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/activities/util/ActivityFactory.java" timestamp="1569020162307">
+        <mark key="[" line="18" column="75" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/web-services/src/main/java/com/jiff/challenges2/view/controller/leaderboard/LeaderboardsController.java" timestamp="1561521215271">
+        <mark key="[" line="26" column="52" />
+        <mark key="]" line="26" column="52" />
+        <mark key="." line="26" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/privacy-service/privacy-service-api/src/main/java/com/castlight/privacyservice/dto/registry/ServiceRegistryRequest.java" timestamp="1557784247476">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/configuration/FilterConfiguration.java" timestamp="1563386390866">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/readers/RegisteredEligibleUnEnrolledBatchReader.java" timestamp="1558153566260">
+        <mark key="[" line="2" column="70" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/batch-processors/notifications/src/main/java/com/jiff/challenges2/batch/notifications/reader/DailyModifierReminderNotificationStepReader.java" timestamp="1560278459839">
+        <mark key="[" line="49" column="18" />
+        <mark key="]" line="49" column="18" />
+        <mark key="." line="49" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-batch-jobs/impl/src/main/java/com/jiff/challenges2/batch/emails/readers/UnRegisteredEligibleUnEnrolledGreenPlumBatchReader.java" timestamp="1568407925032">
+        <mark key="[" line="23" column="73" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.json" timestamp="1561484057633">
+        <mark key="[" line="78" column="67" />
+        <mark key="]" line="78" column="67" />
+        <mark key="." line="78" column="67" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/web-services/src/main/resources/service-config.properties" timestamp="1562606235873">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/stream-processors/notifications/src/main/java/com/jiff/challenges2/notifications/configurations/NotificationSenderSteamProcessorConfiguration.java" timestamp="1557340084410">
+        <mark key="[" line="62" column="32" />
+        <mark key="]" line="62" column="32" />
+        <mark key="." line="62" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/stream-processors/common/src/main/java/com/jiff/challenges2/streams/configuration/EventsSerdeConfiguration.java" timestamp="1557457239674">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="89" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/test/java/com/jiff/challenges2/service/eligibility/JiffChallengeEligibilityServiceTest.java" timestamp="1569018994808">
+        <mark key="[" line="36" column="108" />
+        <mark key="]" line="36" column="108" />
+        <mark key="." line="36" column="108" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/PrizeService.java" timestamp="1562781275479">
+        <mark key="[" line="56" column="3" />
+        <mark key="]" line="56" column="23" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/readers/UnRegisteredEligibleUnEnrolledJiffWarehouseBatchReader.java" timestamp="1559155858355">
+        <mark key="[" line="13" column="88" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/src/test/java/com/jiff/challenges2/controller/team/TeamInvitesControllerTest.java" timestamp="1569030986103">
+        <mark key="[" line="290" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/test/java/com/jiff/challenges2/view/service/RecentWalksServiceTest.java" timestamp="1571694164320">
+        <mark key="[" line="153" column="65" />
+        <mark key="]" line="153" column="65" />
+        <mark key="." line="153" column="65" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/pom.xml" timestamp="1571944906253">
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/test/java/com/jiff/challenges2/batch/emails/AbstractEmailBatchJobTest.java" timestamp="1559159261023">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/iam-service/iam-service-impl/src/main/resources/db/migration/V20180816161932__create_user_credentials_table.sql" timestamp="1568147754264">
+        <mark key="[" line="13" column="136" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/activities/util/WalkWithFriendFactory.java" timestamp="1571946198252">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="95" column="42" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="86" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1573581647002">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/services/EmailSenderService.java" timestamp="1562965233230">
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="14" />
+        <mark key="." line="25" column="14" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a046fce6-d3ee-4e22-a67d-5d159eb8f451/console.sql" timestamp="1571161664826">
+        <mark key="[" line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/web-services/src/main/java/com/jiff/challenges2/controller/LevelController.java" timestamp="1561520991099">
+        <mark key="[" line="28" column="52" />
+        <mark key="]" line="28" column="52" />
+        <mark key="." line="28" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-batch-jobs/impl/src/main/java/com/jiff/challenges2/batch/emails/readers/GreenPlumEligibleUnEnrolledQueryBuilder.java" timestamp="1573085421175" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_26.json" timestamp="1576714060343">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/fc3ba76f-4f5e-4018-baf1-9ea08d9719e8/console.sql" timestamp="1571159423860">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/configuration/JiffRequestUser.java" timestamp="1561520294959">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/filter/RequestUserContextHeaderFilter.java" timestamp="1563394382415">
+        <mark key="[" line="75" column="42" />
+        <mark key="]" line="77" column="15" />
+        <mark key="." line="77" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/web-services/src/main/java/com/jiff/challenges2/filter/EligibilityGroupBasedRoutingFilter.java" timestamp="1561573706067">
+        <mark key="[" line="93" column="28" />
+        <mark key="]" line="93" column="28" />
+        <mark key="." line="93" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/src/test/java/com/jiff/challenges2/controller/ActivityControllerTest.java" timestamp="1571942421418">
+        <mark key="[" line="106" column="61" />
+        <mark key="]" line="106" column="61" />
+        <mark key="." line="106" column="61" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/jiff/challenges2-microservices-common/1.0.0.local/challenges2-microservices-common-1.0.0.local-sources.jar!/com/jiff/challenges2/service/activities/util/WalkWithFriendFactory.java" timestamp="1571946338161">
+        <mark key="[" line="49" column="72" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/view/service/RecentWalksService.java" timestamp="1571693884008">
+        <mark key="[" line="140" column="46" />
+        <mark key="]" line="204" column="35" />
+        <mark key="." line="204" column="35" />
+        <mark key="^" line="204" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/pom.xml" timestamp="1571944915696">
+        <mark key="[" line="20" column="87" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.txt" timestamp="1571163525273">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1571944226967">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1568992804182">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="17" column="13" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/privacy/ChallengesMySQLGdprService.java" />
+      <jump line="41" column="6" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/privacy/ChallengesMySQLGdprService.java" />
+      <jump line="32" column="6" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/privacy/ChallengesMySQLGdprService.java" />
+      <jump line="20" column="31" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/privacy/ChallengesMySQLGdprService.java" />
+      <jump line="3" column="36" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/privacy/ChallengesMySQLGdprService.java" />
+      <jump line="0" column="37" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/privacy/ChallengesMySQLGdprService.java" />
+      <jump line="59" column="6" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/privacy/ChallengesMySQLGdprService.java" />
+      <jump line="51" column="6" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/privacy/ChallengesMySQLGdprService.java" />
+      <jump line="116" column="44" filename="$APPLICATION_CONFIG_DIR$/consoles/db/d8aac514-d449-4350-a1d9-771089891e43/console.sql" />
+      <jump line="168" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/630463c0-75fd-406a-a0c1-bcd7c38d5865/console.sql" />
+      <jump line="2" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/630463c0-75fd-406a-a0c1-bcd7c38d5865/console.sql" />
+      <jump line="24" column="24" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/test/resources/seed_data/setup_greenplum_warehouse_data.sql" />
+      <jump line="16" column="83" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/test/java/com/jiff/challenges2/batch/emails/AbstractEmailBatchJobTest.java" />
+      <jump line="191" column="54" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/test/java/com/jiff/challenges2/batch/emails/admin/controller/EnrollmentEmailGreenPlumTest.java" />
+      <jump line="19" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/fc3ba76f-4f5e-4018-baf1-9ea08d9719e8/console.sql" />
+      <jump line="111" column="34" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/test/java/com/jiff/challenges2/batch/emails/admin/controller/EnrollmentEmailJiffWarehouseTest.java" />
+      <jump line="54" column="35" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/writers/MessagingServiceBatchWriter.java" />
+      <jump line="66" column="16" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/writers/MessagingServiceBatchWriter.java" />
+      <jump line="58" column="51" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/writers/MessagingServiceBatchWriter.java" />
+      <jump line="2" column="72" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/writers/MessagingServiceBatchWriter.java" />
+      <jump line="33" column="8" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/test/java/com/jiff/challenges2/batch/emails/AbstractEmailBatchJobTest.java" />
+      <jump line="12" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c3c3d31d-1318-4b6c-9f02-5b0d01b59d3f/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c3c3d31d-1318-4b6c-9f02-5b0d01b59d3f/console.sql" />
+      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c3c3d31d-1318-4b6c-9f02-5b0d01b59d3f/console.sql" />
+      <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c3c3d31d-1318-4b6c-9f02-5b0d01b59d3f/console.sql" />
+      <jump line="19" column="50" filename="$APPLICATION_CONFIG_DIR$/consoles/db/c3c3d31d-1318-4b6c-9f02-5b0d01b59d3f/console.sql" />
+      <jump line="54" column="47" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="64" column="4" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="61" column="8" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="44" column="8" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="41" column="4" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="23" column="4" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="25" column="4" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="31" column="4" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="27" column="4" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="62" column="8" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="34" column="80" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="46" column="95" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="48" column="38" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="49" column="39" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="51" column="20" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="52" column="20" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="53" column="25" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="28" column="18" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="36" column="56" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/listeners/JobCompletionNotificationListener.java" />
+      <jump line="95" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/014240c7-d5f3-49ee-9ad4-a93a6784b421/console.sql" />
+      <jump line="91" column="2" filename="$APPLICATION_CONFIG_DIR$/consoles/db/014240c7-d5f3-49ee-9ad4-a93a6784b421/console.sql" />
+      <jump line="97" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/014240c7-d5f3-49ee-9ad4-a93a6784b421/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/b74feaf4-ad64-4c01-937a-94fd9554d4a2/console.sql" />
+      <jump line="15" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/630463c0-75fd-406a-a0c1-bcd7c38d5865/console_3.sql" />
+      <jump line="50" column="6" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar!/org/apache/http/impl/client/InternalHttpClient.class" />
+      <jump line="112" column="9" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/leaderboard/factory/IndividualLeaderboardFactory.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/challenges2/pom.xml" />
+      <jump line="43" column="21" filename="$USER_HOME$/Projects/challenges2/docker/configservice/config/challenges2.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/challenges2/docker/configservice/config/challenges2.properties" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/challenges2/docker/configservice/config/challenges2.properties" />
+      <jump line="46" column="22" filename="$USER_HOME$/Projects/challenges2/docker/configservice/config/challenges2.properties" />
+      <jump line="88" column="69" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/test/java/com/jiff/challenges2/filter/RequestUserContextHeaderFilterTest.java" />
+      <jump line="24" column="26" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/configuration/ApiGatewayConfiguration.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/configuration/CaptureRequestUserContextMethodArgumentResolver.java" />
+      <jump line="2" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.txt" />
+      <jump line="12" column="110" filename="$USER_HOME$/Projects/challenges2/microservices/stream-processors/events/src/main/resources/debezium_connector_template.json" />
+      <jump line="33" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.json" />
+      <jump line="34" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.json" />
+      <jump line="79" column="31" filename="$USER_HOME$/Projects/challenges2/scripts/kafka-pipeline.sh" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.yml" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.yml" />
+      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.yml" />
+      <jump line="188" column="6" filename="$USER_HOME$/Projects/challenges2/scripts/kafka-pipeline.sh" />
+      <jump line="167" column="15" filename="$USER_HOME$/Projects/challenges2/scripts/kafka-pipeline.sh" />
+      <jump line="165" column="29" filename="$USER_HOME$/Projects/challenges2/scripts/kafka-pipeline.sh" />
+      <jump line="164" column="15" filename="$USER_HOME$/Projects/challenges2/scripts/kafka-pipeline.sh" />
+      <jump line="154" column="15" filename="$USER_HOME$/Projects/challenges2/scripts/kafka-pipeline.sh" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/challenges2/topic_info.txt" />
+      <jump line="18" column="23" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/DataIngestPublishSummariesClient.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/batch-processors/emails/src/main/java/com/jiff/challenges2/batch/emails/processors/MessagingServiceBatchWriterPostProcessor.java" />
+      <jump line="215" column="14" filename="$MAVEN_REPOSITORY$/com/jiff/person-manager-api/3.0.3-RELEASE/person-manager-api-3.0.3-RELEASE.jar!/com/jiff/person/Person.class" />
+      <jump line="97" column="73" filename="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/src/main/java/com/jiff/challenges2/service/ChallengePersonServiceV2.java" />
+      <jump line="15" column="16" filename="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/api/src/main/java/com.jiff.challenges2.webservices/Person.java" />
+      <jump line="162" column="8" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/team/admin/AdminChallengeTeamPersonService.java" />
+      <jump line="109" column="92" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/test/java/com/jiff/challenges2/service/activities/ActivityRequestProcessorServiceTest.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/challenges2/docker/configservice/config/application.yml" />
+      <jump line="117" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/activities/util/WalkWithFriendFactory.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/activities/util/WalkWithFriendFactory.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>username</text>
+      </register>
+      <register name="*" type="4">
+        <text>username</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
+      <register name="/" type="4">
+        <text>shared</text>
+      </register>
+      <register name="0" type="4">
+        <text>challenge2-web.ukelele-derived-index.name</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIFBhaXIub2YoamlmZlBlcnNvbkluZGV4TmFtZSwgInBlcnNvbiIpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIFBhaXIub2YodWtlbGVsZURlcml2ZWRJbmRleE5hbWUsICJhY2NvdW50X2FnZ3JlZ2F0ZV9mZWF0dXJlcyIpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIElmIG5ld2VyIHZlcnNpb25zIG9mIGZyb250LWVuZCBzZW5kcyBzaGFyZWRVc2VySWQgdXNlIGl0IG90aGVyd2lzZSwKICAgICAgICAgICAgLy8gdXNlIHRoZSBvbGQgdXNlckd1aWQgaWRlbnRpZmllci4gTm90ZTogQXMgb2YgT2N0IDIyLCAyMDE5LCBib3RoCiAgICAgICAgICAgIC8vIHVzZXJHdWlkIGFuZCBzaGFyZWRVc2VySWQgYmVhciB0aGUgc2FtZSBpZGVudGlmaWVyIHdoaWNoIGlzIGFjY291bnRHdWlkLgogICAgICAgICAgICBpZiAocmVnaXN0ZXJlZENoYWxsZW5nZUVsbGlnaWJsZVBlcnNvblRhZy5nZXRTaGFyZWRVc2VySWQoKSA9PSBudWxsKSB7CiAgICAgICAgICAgICAgc2hhcmVkVXNlcklkcy5hZGQocmVnaXN0ZXJlZENoYWxsZW5nZUVsbGlnaWJsZVBlcnNvblRhZy5nZXRVc2VyR3VpZCgpKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICBzaGFyZWRVc2VySWRzLmFkZChyZWdpc3RlcmVkQ2hhbGxlbmdlRWxsaWdpYmxlUGVyc29uVGFnLmdldFNoYXJlZFVzZXJJZCgpKTsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBAVGVzdAogIHB1YmxpYyB2b2lkIHRlc3RHZXRQYXJ0aWNpcGF0aW9uc0J5VXNlckd1aWRzQW5kQ2hhbGxlbmdlV2hlblVzZXJHdWlkU2V0SXNOdWxsKCkgewogICAgTGlzdDxQYXJ0aWNpcGF0aW9uPiBwYXJ0aWNpcGF0aW9ucyA9CiAgICAgICAgcGFydGljaXBhdGlvblNlcnZpY2UuZmluZEJ5Q2hhbGxlbmdlR3VpZEFuZFNoYXJlZFVzZXJJZEluKCJjNCIsIG51bGwpOwogICAgYXNzZXJ0VHJ1ZShwYXJ0aWNpcGF0aW9ucy5pc0VtcHR5KCkpOwogIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBAR2V0dGVyIEBOb3RCbGFuawo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zLzovKy9n</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>shared</last-search>
+      <last-offset />
+      <last-pattern>shared</last-pattern>
+      <last-replace>+</last-replace>
+      <last-substitute>:</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>8000</entry>
+        <entry>JOB_TYPE</entry>
+        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
+        <entry>String</entry>
+        <entry>'Z'</entry>
+        <entry>NOW()</entry>
+        <entry>notifications</entry>
+        <entry>doExecute</entry>
+        <entry>zuulServletFilter</entry>
+        <entry>api</entry>
+        <entry>.yml</entry>
+        <entry>schema.registry.url</entry>
+        <entry>debezium</entry>
+        <entry>external</entry>
+        <entry>topic_prefix</entry>
+        <entry>limiter</entry>
+        <entry>:</entry>
+        <entry>all</entry>
+        <entry>action-progresses</entry>
+        <entry>shared</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/${kafka.consumer-prefx}/challenges2.prod.consumer/g</entry>
+        <entry>%s/${kafka.consumer-prefix}/challenges2.prod.consumer/g</entry>
+        <entry>%s/prod/${ENV}/g</entry>
+        <entry>%s/STEPS_CONSUMER_GROUPS/STEPS/g</entry>
+        <entry>%s/LEADERBOARD_STREAM_PROCESSORS/LEADERBOARD/g</entry>
+        <entry>%s/redisLeaderboardEntryTemplate/template/g</entry>
+        <entry>%s/gdprRequestGuid/requestGuid</entry>
+        <entry>%s/'Z'/+00:00/g</entry>
+        <entry>%s/'Z'/'+00:00'/g</entry>
+        <entry>%s/NOW()/'2019-06-11 17:32:24'/gh</entry>
+        <entry>%s/NOW()/'2019-06-11 17:32:24'/g</entry>
+        <entry>%s/.yml//g</entry>
+        <entry encoding="base64">JzwsJz4vZGViZXppdW0v</entry>
+        <entry encoding="base64">JzwsJz5zL2V4dGVybmFsL2RlYmV6aXVt</entry>
+        <entry encoding="base64">JzwsJz5zL3RvcGljX3ByZWZpeC9kZWJleml1bV90b3BpY19wcmVmaXgvZw==</entry>
+        <entry>%s/limiter/lamater/g</entry>
+        <entry>2/:/+</entry>
+        <entry>2s/:/+</entry>
+        <entry>3s/:/+</entry>
+        <entry encoding="base64">JzwsJz5zLzovKy9n</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
