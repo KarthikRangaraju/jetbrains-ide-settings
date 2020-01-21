@@ -95,11 +95,8 @@
         <mark key="." line="14" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/resources/themes/walk_with_friends.json" timestamp="1578956757570" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1579631615802">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="38" column="30" />
-        <mark key="^" line="38" column="30" />
-        <mark key="." line="38" column="30" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1579632297358">
+        <mark key="[" line="12" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/dataprivacy/GdprListenerService.java" timestamp="1557456939605">
         <mark key="[" line="32" column="2" />
