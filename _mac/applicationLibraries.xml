@@ -179,12 +179,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jaro_winkler-1.5.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/jaro_winkler/1.5.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/jaro_winkler-1.5.4/lib" />
       </SOURCES>
