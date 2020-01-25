@@ -94,7 +94,6 @@
         <mark key="]" line="14" column="2" />
         <mark key="." line="14" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/resources/themes/walk_with_friends.json" timestamp="1578956757570" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1579634740433">
         <mark key="[" line="12" column="2" />
       </file>
@@ -113,7 +112,6 @@
         <mark key="]" line="23" column="41" />
         <mark key="." line="23" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/api/src/main/java/com.jiff.challenges2.webservices/UserChallenge.java" timestamp="1578955283339" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/630463c0-75fd-406a-a0c1-bcd7c38d5865/console.sql" timestamp="1569204760332">
         <mark key="[" line="47" column="20" />
         <mark key="]" line="47" column="20" />
@@ -132,7 +130,6 @@
         <mark key="]" line="27" column="49" />
         <mark key="." line="27" column="49" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/jiff/challenges2-api/master-a3a8532/challenges2-api-master-a3a8532.jar!/com/jiff/challenges2/api/Challenge.class" timestamp="1578955538479" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_21.json" timestamp="1568419654198">
         <mark key="[" line="0" column="0" />
       </file>
@@ -158,6 +155,9 @@
         <mark key="[" line="4" column="25" />
         <mark key="]" line="0" column="84" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/leet/src/CoinChange.java" timestamp="1579982393764">
+        <mark key="[" line="0" column="25" />
       </file>
       <file name="/Bash Fragment (scratch.sh:132).sh" timestamp="1579630783155">
         <mark key="[" line="0" column="0" />
@@ -303,7 +303,6 @@
         <mark key="]" line="28" column="9" />
         <mark key="." line="28" column="9" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/jiff/challenges2-microservices-common/1.0.0.local/challenges2-microservices-common-1.0.0.local-sources.jar!/com/jiff/challenges2/service/ThemeService.java" timestamp="1578954967283" />
       <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/test/java/com/jiff/challenges2/service/team/invites/TeamInvitesServiceTest.java" timestamp="1569104878725">
         <mark key="[" line="127" column="47" />
         <mark key="]" line="96" column="8" />
@@ -337,7 +336,6 @@
         <mark key="]" line="40" column="50" />
         <mark key="." line="40" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/src/main/java/com/jiff/challenges2/service/UserChallengeService.java" timestamp="1578955429919" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cd309e6c-fb6d-4367-b6d5-d03f3d642c71/console.sql" timestamp="1563565461139">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -410,7 +408,6 @@
         <mark key="]" line="36" column="108" />
         <mark key="." line="36" column="108" />
       </file>
-      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/src/main/java/com/jiff/challenges2/controller/ChallengeController.java" timestamp="1578955181985" />
       <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/service/PrizeService.java" timestamp="1562781275479">
         <mark key="[" line="56" column="3" />
         <mark key="]" line="56" column="23" />
@@ -442,8 +439,6 @@
       <file name="$USER_HOME$/Projects/iam-service/iam-service-impl/src/main/resources/db/migration/V20180816161932__create_user_credentials_table.sql" timestamp="1568147754264">
         <mark key="[" line="13" column="136" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/castlight/jlocalizer-service-sdk/1.8.0/jlocalizer-service-sdk-1.8.0.jar!/com/castlight/jlocalizerservice/api/service/JLocalizerHeaderServiceImpl.class" timestamp="1578954982173" />
-      <file name="$MAVEN_REPOSITORY$/com/jiff/challenges2-microservices-common/master-a3a8532/challenges2-microservices-common-master-a3a8532.jar!/com/jiff/challenges2/service/themes/EmployerThemesService.class" timestamp="1579630426041" />
       <file name="/Dummy.txt" timestamp="1578954943500">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -473,7 +468,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/jiff/challenges2-microservices-common/master-a3a8532/challenges2-microservices-common-master-a3a8532.jar!/com/jiff/challenges2/service/ThemeService.class" timestamp="1578956926418" />
       <file name="$USER_HOME$/Projects/challenges2/microservices/common/src/main/java/com/jiff/challenges2/configuration/JiffRequestUser.java" timestamp="1561520294959">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="18" />
