@@ -156,9 +156,7 @@
         <mark key="]" line="0" column="84" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/leet/src/CoinChange.java" timestamp="1579982393764">
-        <mark key="[" line="0" column="25" />
-      </file>
+      <file name="$USER_HOME$/Projects/leet/src/CoinChange.java" timestamp="1579984122874" />
       <file name="/Bash Fragment (scratch.sh:132).sh" timestamp="1579630783155">
         <mark key="[" line="0" column="0" />
       </file>
@@ -521,7 +519,7 @@
         <text>username</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">aiA9IDA7IGogPCBjb2lucy5sZW5ndGg7IGorKw==</text>
       </register>
       <register name="/" type="4">
         <text>shared</text>
