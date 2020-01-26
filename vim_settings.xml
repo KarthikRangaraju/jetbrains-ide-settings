@@ -18,8 +18,10 @@
         <mark key="]" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/leet/src/NumberOfLongestIncreasingSubsequence.java" timestamp="1580059965766">
-        <mark key="[" line="4" column="9" />
+      <file name="$USER_HOME$/Projects/leet/src/NumberOfLongestIncreasingSubsequence.java" timestamp="1580061331896">
+        <mark key="[" line="26" column="75" />
+        <mark key="]" line="35" column="39" />
+        <mark key="." line="35" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/privacy-service/privacy-service-api/build.gradle" timestamp="1556816492658">
         <mark key="[" line="6" column="48" />
@@ -50,6 +52,9 @@
       </file>
       <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/src/main/java/com/jiff/challenges2/controller/ChallengePersonController.java" timestamp="1568934065374">
         <mark key="[" line="24" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/leet/src/LengthOfContinuousIncreasingSubsequence.java" timestamp="1580062112978">
+        <mark key="[" line="0" column="54" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0680f7c-1762-4aab-8938-b84cb48c6b0b/console.sql" timestamp="1560112609866">
         <mark key="[" line="3" column="52" />
@@ -527,7 +532,7 @@
         <text>username</text>
       </register>
       <register name="-" type="4">
-        <text>AtJ</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>shared</text>
