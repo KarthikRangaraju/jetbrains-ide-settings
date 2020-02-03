@@ -18,9 +18,7 @@
         <mark key="]" line="10" column="7" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/leet/src/NumberOfLongestIncreasingSubsequence.java" timestamp="1580700391676">
-        <mark key="[" line="18" column="35" />
-      </file>
+      <file name="$USER_HOME$/Projects/leet/src/NumberOfLongestIncreasingSubsequence.java" timestamp="1580702274478" />
       <file name="$USER_HOME$/Projects/privacy-service/privacy-service-api/build.gradle" timestamp="1556816492658">
         <mark key="[" line="6" column="48" />
         <mark key="]" line="6" column="48" />
@@ -534,7 +532,7 @@
         <text>username</text>
       </register>
       <register name="-" type="4">
-        <text>max_len</text>
+        <text>(n</text>
       </register>
       <register name="/" type="4">
         <text>shared</text>
