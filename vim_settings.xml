@@ -3,14 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/leet/src/DecodeWays.java" timestamp="1581206713918">
-        <mark key="]" line="22" column="3" />
-        <mark key="^" line="22" column="3" />
-        <mark key="." line="22" column="3" />
+      <file name="$USER_HOME$/Projects/leet/src/DecodeWays.java" timestamp="1581221214799">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="32" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="-" type="4">
+        <text>stringBuilder.toString()</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
