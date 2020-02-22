@@ -8,6 +8,11 @@
         <mark key="]" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/leet/src/MinCostClimbingStairs.java" timestamp="1582408440349">
+        <mark key="[" line="15" column="58" />
+        <mark key="]" line="15" column="58" />
+        <mark key="." line="15" column="58" />
+      </file>
       <file name="/fragment.java" timestamp="1582403983272">
         <mark key="[" line="0" column="0" />
       </file>
@@ -16,7 +21,7 @@
     <jumps />
     <registers>
       <register name="-" type="4">
-        <text>stringBuilder.toString()</text>
+        <text>cost[i - 1]</text>
       </register>
     </registers>
     <search>
