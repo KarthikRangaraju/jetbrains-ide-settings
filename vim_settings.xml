@@ -2,42 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/Projects/leet/src/DecodeWays.java" timestamp="1581222924703">
-        <mark key="[" line="17" column="32" />
-        <mark key="]" line="17" column="32" />
-        <mark key="." line="17" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/leet/src/MinCostClimbingStairs.java" timestamp="1582409597114">
-        <mark key="[" line="15" column="58" />
-        <mark key="]" line="15" column="58" />
-        <mark key="." line="15" column="58" />
-      </file>
-      <file name="/fragment.java" timestamp="1582403983272">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/leet/src/CoinChange.java" timestamp="1582404203034" />
-    </filemarks>
+    <filemarks />
     <jumps />
-    <registers>
-      <register name="-" type="4">
-        <text>cost[i - 1]</text>
-      </register>
-    </registers>
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
