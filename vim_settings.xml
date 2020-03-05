@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/src/main/java/com/jiff/challenges2/configuration/gateway/EdgeApiGatewayConfiguration.java" timestamp="1583444586626" />
+      <file name="$MAVEN_REPOSITORY$/com/castlight/jlocalizer-service-sdk/1.8.0/jlocalizer-service-sdk-1.8.0.jar!/com/castlight/jlocalizerservice/api/service/JLocalizerLocaleService.class" timestamp="1583447289210" />
     </filemarks>
     <jumps />
     <registers />
