@@ -3,11 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.json" timestamp="1583881020518">
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="18" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/src/main/java/com/jiff/challenges2/configuration/gateway/EdgeApiGatewayConfiguration.java" timestamp="1583444586626" />
       <file name="$MAVEN_REPOSITORY$/com/castlight/jlocalizer-service-sdk/1.8.0/jlocalizer-service-sdk-1.8.0.jar!/com/castlight/jlocalizerservice/api/service/JLocalizerLocaleService.class" timestamp="1583447289210" />
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="-" type="4">
+        <text>2.2.2.2</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
