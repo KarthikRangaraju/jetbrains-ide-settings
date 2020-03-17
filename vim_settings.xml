@@ -2,44 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_29.json" timestamp="1583958838445">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="15" column="5" />
-        <mark key="^" line="4" column="11" />
-        <mark key="." line="15" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-web-services/impl/src/main/java/com/jiff/challenges2/configuration/gateway/EdgeApiGatewayConfiguration.java" timestamp="1583444586626" />
-      <file name="$MAVEN_REPOSITORY$/com/castlight/jlocalizer-service-sdk/1.8.0/jlocalizer-service-sdk-1.8.0.jar!/com/castlight/jlocalizerservice/api/service/JLocalizerLocaleService.class" timestamp="1583447289210" />
-    </filemarks>
+    <filemarks />
     <jumps />
-    <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiYW50bXVhdC5jbGgtaW50LmNvbSIsCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICJvb3BzLXRlc3QiOiB7CiAgICAgICJzdWJkb21haW5zIjogWwogICAgICAgICJzdWJkb21haW4tYWEiLAogICAgICAgICJzdWJkb21haW4tYmIiCiAgICAgIF0sCiAgICAgICJkbnNfc2VydmVycyI6IFsKICAgICAgICAiMy4zLjMuMyIsCiAgICAgICAgIjQuNC40LjQiCiAgICAgIF0KICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAic3ViZG9tYWluLWIiCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAic3ViZG9tYWluLWEiLAo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>,</text>
-      </register>
-    </registers>
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <history />
     <shortcut-conflicts />
   </component>
 </application>
