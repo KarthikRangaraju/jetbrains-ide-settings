@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-batch-jobs/impl/src/main/java/com/jiff/challenges2/batch/common/config/MultiDataSourceConfiguration.java" timestamp="1584557345263" />
-      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-batch-jobs/impl/src/main/java/com/jiff/challenges2/batch/emails/readers/RegisteredEligibleUnEnrolledBatchReader.java" timestamp="1584557373371" />
-      <file name="$USER_HOME$/Projects/challenges2_split/challenges2-batch-jobs/impl/src/main/java/com/jiff/challenges2/batch/emails/config/GreenPlumDataSourceConfiguration.java" timestamp="1584557263732" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_30.json" timestamp="1585070250609">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
