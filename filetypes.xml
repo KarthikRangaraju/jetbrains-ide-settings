@@ -3,9 +3,9 @@
     <extensionMap>
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping pattern="k" type="PLAIN_TEXT" />
-      <mapping ext="tfvars" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="ctmpl" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="tfvars" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="ifup-pre-local" type="Shell Script" />
     </extensionMap>
