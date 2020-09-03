@@ -12,6 +12,7 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="ifup-pre-local" type="Shell Script" />
+      <mapping pattern="trigger-kubelet-restart-if-node-not-ready" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
