@@ -1,20 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping pattern="spinnaker-s3" type="PLAIN_TEXT" />
-      <mapping pattern="configure-halyard-daemon" type="PLAIN_TEXT" />
+      <mapping pattern="gradlew" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="k" type="PLAIN_TEXT" />
       <mapping pattern="build-artifact-for-i2-ui-support" type="PLAIN_TEXT" />
+      <mapping pattern="configure-halyard-daemon" type="PLAIN_TEXT" />
       <mapping ext="ctmpl" type="PLAIN_TEXT" />
       <mapping ext="hcl" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="tfvars" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping pattern="ifup-pre-local" type="Shell Script" />
-      <mapping pattern="download-boms" type="Shell Script" />
       <mapping pattern="trigger-kubelet-restart-if-node-not-ready" type="Shell Script" />
+      <mapping pattern="download-boms" type="Shell Script" />
+      <mapping pattern="ifup-pre-local" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
