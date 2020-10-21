@@ -8,6 +8,7 @@
       <mapping pattern="k" type="PLAIN_TEXT" />
       <mapping pattern="build-artifact-for-i2-ui-support" type="PLAIN_TEXT" />
       <mapping pattern="configure-halyard-daemon" type="PLAIN_TEXT" />
+      <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping ext="ctmpl" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
