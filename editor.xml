@@ -1,5 +1,11 @@
 <application>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
 </application>
