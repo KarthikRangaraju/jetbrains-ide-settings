@@ -15,5 +15,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.sql</mask>
+    <mask>*.hcl</mask>
   </component>
 </application>
