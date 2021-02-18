@@ -18,9 +18,9 @@
       <mapping pattern="helm_manifest" type="Ruby" />
       <mapping pattern="render" type="Shell Script" />
       <mapping pattern="trigger-kubelet-restart-if-node-not-ready" type="Shell Script" />
-      <mapping pattern="download-boms" type="Shell Script" />
       <mapping pattern="upload-kv-files" type="Shell Script" />
       <mapping pattern="ifup-pre-local" type="Shell Script" />
+      <mapping pattern="download-boms" type="Shell Script" />
       <mapping pattern="render-dashboards" type="Shell Script" />
       <mapping pattern="render-ruless" type="Shell Script" />
     </extensionMap>
